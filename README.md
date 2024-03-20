@@ -16,5 +16,6 @@ A fun farming, sci-fi, adventure game about a little snowball called Stoch explo
 Stoch Space Expedition will be a text game.
 
 Class Diagram
+![Class Diagram](https://github.com/ForestNYoung/StochSpaceExpedition/blob/main/images/StochSpaceExpeditionClassDiagram.png?raw=true)
 
 ## Source Code
