@@ -1,5 +1,5 @@
 # Stoch Space Expedition
-A fun farming, sci-fi, adventure game about a little snowball exploring space.
+A fun farming, sci-fi, adventure game about a little snowball called Stoch exploring space.
 
 ## Members
 * Forest Young - Project leader, Developer, Tester
