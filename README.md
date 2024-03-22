@@ -5,7 +5,7 @@ A fun farming, sci-fi, adventure game about a little snowball called Stoch explo
 * Forest Young - Project leader, Developer, Tester
 
 ## Project Features and Goals
-* Multiple planets to explore
+* Multiple locations to explore
 * Farming simulator based on time
 * Shop for buying tools and cool technologies
 * Include in-game characters to help
