@@ -13,7 +13,7 @@ A fun farming, sci-fi, adventure game about a little snowball called Stoch explo
 * Stoch!
 
 ## UI and Logic Planning
-Stoch Space Expedition will be a text game.
+Stoch's Space Expedition will be a text game.
 
 Class Diagram
 
