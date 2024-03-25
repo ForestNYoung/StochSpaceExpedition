@@ -15,6 +15,7 @@ A fun farming, sci-fi, adventure game about a little snowball called Stoch explo
 ## UI and Logic Planning
 Stoch's Space Expedition will be a text game.
 
+![GUI Mockup](https://github.com/Grocherio/StochSpaceExpedition/blob/main/images/StochSpaceExpeditionGUIMockup.png?raw=true)
 Class Diagram
 
 ![Class Diagram](https://github.com/ForestNYoung/StochSpaceExpedition/blob/main/images/StochSpaceExpeditionClassDiagram.png?raw=true)
