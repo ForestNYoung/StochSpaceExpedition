@@ -1,5 +1,5 @@
 # Stoch's Space Expedition
-A fun farming, sci-fi, adventure game about a little snowball called Stoch exploring space to find his integral.
+Stoch's Space Expedition is a fun, text-adventure, farming game! The player is Stoch, a little snowball who is looking for his big metal integral. The player needs to explore different locations in the universe to gather the needed resources to travel to the edge of the universe. The player needs to gather food (to eat), energy (to fuel the spaceship), and money (to buy the spaceship from Groche). The player actually needs to wait real-life time for in-game things to occur. The player wins once Nominee gives the integral back.
 
 ## Members
 * Forest Young - Project leader, Developer, Tester
@@ -14,7 +14,6 @@ A fun farming, sci-fi, adventure game about a little snowball called Stoch explo
 
 ## UI and Logic Planning
 Stoch's Space Expedition will be a text game.
-
 ![GUI Mockup](https://github.com/Grocherio/StochSpaceExpedition/blob/main/images/StochSpaceExpeditionGUIMockup.png?raw=true)
 Class Diagram
 
