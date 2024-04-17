@@ -22,4 +22,4 @@ Class Diagram
 ## Source Code
 [Go to Replit!](https://replit.com/@9714599/StochSpaceExpedition)
 
-To download the source code onto your computer, go up to the green "Code" button above and then download ZIP.
+To download the source code onto your computer, go up to the green "Code" button above and then download ZIP, or go to Replit and download ZIP.
