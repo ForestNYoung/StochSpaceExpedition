@@ -1,0 +1,15 @@
+Enter "stats" any time to see your stats!
+Look through my Gift Shop and see what interests you!
+Don't give up!
+There are two spaceships, the Food Spaceship and the Fuel Spaceship. The Food Spaceship gives you some bonus food and reduces your food consumption rate! The Fuel Spaceship gives you some bonus fuel and improves the fuel efficiency!
+When harvesting energy for your spaceship, try to deposit it in the spaceship as fast as you can! Energy naturally exponentially decays based on time and every second your energy amount decreases in half!
+Buy one of my spaceships first before generating energy!
+Energy and fuel are not the same thing! Energy is generated from the Fusion Reactor and will decay. Fuel is energy deposited in the spaceship and will not decay!
+Make absolute sure to get enough food and fuel for the journey to the Universe Edge! If you don't get enough, you'll get stranded out there and we won't be able to find you!
+Don't worry about getting enough resources to get back from the Universe Edge! Nominee has a special device that you'll discover later!
+Buy some upgrades for the Mini Carrot Farm and the Fusion Reactor to improve their rates and capacity!
+You should go have a conversation with Foo! Foo lives on Sun. He can give you food and energy gifts!
+Foo's birthday is on April 16, make sure to remember that!
+Check back on the Mini Carrot Farm often to harvest carrots and replant!
+The total money from the Vault is not enough to buy every item in my Gift Shop! You can sell me carrots for some money!
+If you get too hungry, just come to Groche's Gift Shop to buy some carrots!
