@@ -17,7 +17,7 @@ Stoch's Space Expedition will be a text game.
 ![GUI Mockup](https://github.com/Grocherio/StochSpaceExpedition/blob/main/images/StochSpaceExpeditionGUIMockup.png?raw=true)
 Class Diagram
 
-![Class Diagram](https://github.com/ForestNYoung/StochSpaceExpedition/blob/main/images/StochSpaceExpeditionClassDiagram.png?raw=true)
+![Class Diagram](https://github.com/ForestNYoung/StochSpaceExpedition/blob/main/images/StochSpaceExpeditio             nClassDiagram.png?raw=true)
 
 ## Source Code
 [Go to Replit!](https://replit.com/@9714599/StochSpaceExpedition)
