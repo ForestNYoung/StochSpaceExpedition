@@ -1,6 +1,8 @@
 # Stoch's Space Expedition
 Stoch's Space Expedition is a fun, text-adventure, farming game! The player is Stoch, a little snowball who is looking for his big metal integral. The player needs to explore different locations in the universe to gather the needed resources to travel to the edge of the universe. The player needs to gather food (to eat), energy (to fuel the spaceship), and money (to buy the spaceship from Groche). The player actually needs to wait real-life time for in-game things to occur. The player wins once Nominee gives the integral back.
 
+Still under construction!
+
 ## Members
 * Forest Young - Project leader, Developer, Tester
 
