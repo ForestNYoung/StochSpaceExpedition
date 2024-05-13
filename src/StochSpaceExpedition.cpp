@@ -84,7 +84,7 @@ int main() {
   wait(); // Wait for enter
 
   // Story
-  //story();
+  story();
 
   // MAIN GAME LOOP
   while (!victory) {
